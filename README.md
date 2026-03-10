@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/headshot.jpeg" width="200" style="border-radius: 50%;" alt="Griffin Stoddard" />
+</p>
+
 # Hey, I'm Griffin 👋
 
 ```
@@ -42,10 +46,24 @@ Parallel       OpenMP · OpenCL · TCP Sockets · Distributed Systems
 
 When I'm not writing code or reading 10-Ks, you'll find me:
 
-🏔️ Skiing the Colorado backcountry  
-🐟 Ice fishing at sunrise  
-🏕️ Leading backcountry expeditions in the White Mountains (4 summers as a camp counselor)  
-🐱 Hanging out with my kittens  
+<p align="center">
+  <img src="./assets/griffin-1.jpeg" width="230" alt="Adventure 1" />&nbsp;&nbsp;
+  <img src="./assets/griffin-2.jpeg" width="230" alt="Adventure 2" />&nbsp;&nbsp;
+  <img src="./assets/griffin-3.jpeg" width="230" alt="Adventure 3" />
+</p>
+
+🏔️ Skiing the Colorado backcountry · 🐟 Ice fishing at sunrise · 🏕️ Leading backcountry expeditions in the White Mountains
+
+---
+
+### 🐱 The Real Bosses
+
+<p align="center">
+  <img src="./assets/cat-1.jpeg" width="280" alt="Cat 1" />&nbsp;&nbsp;
+  <img src="./assets/cat-2.jpeg" width="280" alt="Cat 2" />
+</p>
+
+No README is complete without the two who actually run the show. When I'm not at my desk, they are.
 
 ---
 
