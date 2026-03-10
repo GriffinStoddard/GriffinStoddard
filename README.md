@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/forest.jpeg" width="100%" alt="Forest banner" />
+</p>
+
 # Hi. I'm Griffin. Thanks for visiting my GitHub. Scroll down to learn about me more in a more personalized fashion than you will on any other of my social medias.
 
 ```
@@ -42,7 +46,7 @@ Parallel       OpenMP · OpenCL · TCP Sockets · Distributed Systems
 
 ### 📍 Beyond the Keyboard
 
-When I'm not writing code or reading 10-Ks, you'll find me:
+When I'm not writing code, doing school-work, or sweating my stock positions, you might find me:
 
 <p align="center">
   <img src="./assets/griffin-1.jpeg" width="230" alt="Adventure 1" />&nbsp;&nbsp;
