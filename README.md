@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/headshot.jpeg" width="200" style="border-radius: 50%;" alt="Griffin Stoddard" />
+  <img src="./assets/headshot.jpeg" width="200" alt="Griffin Stoddard" />
 </p>
 
 # Hey, I'm Griffin 👋
