@@ -40,7 +40,7 @@ Parallel       OpenMP · OpenCL · TCP Sockets · Distributed Systems
 
 ---
 
-### 📍 Beyond the Terminal
+### 📍 Beyond the Keyboard
 
 When I'm not writing code or reading 10-Ks, you'll find me:
 
@@ -50,24 +50,24 @@ When I'm not writing code or reading 10-Ks, you'll find me:
   <img src="./assets/griffin-3.jpeg" width="230" alt="Adventure 3" />
 </p>
 
-🏔️ Skiing the Colorado backcountry · 🐟 Ice fishing at sunrise · 🏕️ Leading backcountry expeditions in the White Mountains
+🏔️ Skiing Colorado (and the East!) · 🐟 Catching salmon · 🏕️ Leading backcountry expeditions in the White Mountains
 
 ---
 
-### 🐱 The Real Bosses
+### 🐱 Norman and Sabrina
 
 <p align="center">
   <img src="./assets/cat-1.jpeg" width="280" alt="Cat 1" />&nbsp;&nbsp;
   <img src="./assets/cat-2.jpeg" width="280" alt="Cat 2" />
 </p>
 
-No README is complete without the two who actually run the show. When I'm not at my desk, they are.
+I spent 8 months fostering many different kittens from the Denver Animal Shelter. After fostering these two for a week, they were too perfect to give back, so I foster-failed and adopted them.
 
 ---
 
-### 🗺️ Where I'm Headed
+### 🗺️ Thanks for reading.
 
-I'm working toward a career in **wealth management**, combining deep technical skills with a genuine commitment to client relationships. Currently pursuing the **CFP pathway** and building the systems + expertise to eventually grow a family advisory practice.
+If you'd like to know anything more, or connect in depth, send me an email!
 
 ---
 
