@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/forest.jpeg" width="100%" alt="Forest banner" />
+  <img src="./assets/forest.jpeg" width="600" alt="Forest banner" />
 </p>
 
 # Hi. I'm Griffin. Thanks for visiting my GitHub. Scroll down to learn about me more in a more personalized fashion than you will on any other of my social medias.
