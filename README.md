@@ -4,13 +4,7 @@
 
 # Hi. I'm Griffin. Thanks for visiting my GitHub. Scroll down to learn about me more in a more personalized fashion than you will on any other of my social medias.
 
-```
-              ╔══════════════════════════════════════════════════╗
-              ║                                                  ║
-              ║   "Earning trust through competence and care."   ║
-              ║                                                  ║
-              ╚══════════════════════════════════════════════════╝
-```
+
 
 **CS × Finance · Denver, CO · University of Denver '26 / '27**
 
