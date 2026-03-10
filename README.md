@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./assets/headshot.jpeg" width="200" alt="Griffin Stoddard" />
-</p>
-
-# Hey, I'm Griffin 👋
+# Hi. I'm Griffin. Thanks for visiting my GitHub. Scroll down to learn about me more in a more personalized fashion than you will on any other of my social medias.
 
 ```
               ╔══════════════════════════════════════════════════╗
@@ -14,7 +10,9 @@
 
 **CS × Finance · Denver, CO · University of Denver '26 / '27**
 
-I build things that sit at the intersection of software engineering and financial markets — trading infrastructure, portfolio automation, and data-driven investment tools. I've been trading equities since I was twelve, and I've been writing code to make it better ever since.
+Thanks to my Computer Science backgroud and the advent of my good friend AI (Claude) I feel comfortable vibe-coding and deploying a wide range of software solutions. Exciting me most is software that automizes the "computer" work of a financial advisor. Essentially, I imagine a world where a financial advisor click-clacking around on their desktop to be a thing of the past. Instead the advisor will spend the majority of their day meeting in-person with clients to deliver the personalized care that **should** come when the client is trusting their advisor with their life's savings. In this future, a private, tailored AI will be privy to all details of the advisor's clients, and the AI will work to develop investment, tax, estate, etc. planning while the advisor is out in the field meeting and connecting with clients. Finally, the advisor will review the planning of its friendly-AI and sign off on its work. 
+
+In ten years I plan to be running a financial-advising firm in which I have devloped and implemented powerful automation tools that enable my team of advisers to focus entirely on delivering the best-in-class client service. That's a big goal, though I am confident my education, vision, and values will take me to these heights.
 
 ---
 
